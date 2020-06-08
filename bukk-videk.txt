@@ -1,0 +1,61 @@
+﻿Hegycsúcs neve;Magasság láb
+Bálvány;3136.48
+Büszkés-hegy;3123.36
+Cserepes-kő;2700.13
+Csikorgó;2552.49
+Esztea-fő;2614.83
+Fekete-Sár-bérc;3051.18
+Felső-Borovnyák (2);3057.74
+Felső-Borovnyák (1);3100.39
+Fodor-hegy;3054.46
+Füstös-kő-bérc;2992.13
+Három-kő;2965.88
+Hegyes-kő;2598.43
+Hosszú-bérc;2690.29
+Huta-bérc;3018.37
+Ispán-hegy;2992.13
+Istállós-kő;3143.04
+Kerek-hegy;2713.25
+Kerek-hegy;2591.86
+Kerek-réti-fő;2887.14
+Kis-kő-hát;3080.71
+Kis-Sár-bérc;3034.78
+Kis-tanya;3005.25
+Kis-Virágos-hegy;2847.77
+Kőris-hegy;3097.11
+Kőrös-bérc;3136.48
+Közép-bérc (1);2647.64
+Közép-bérc (2);2637.8
+Kukocsó-hegy;3087.27
+Küllő-hegy;2949.48
+Leány-hegy;2926.51
+Messzelátó;2805.12
+Nagy-Csipkés-tető;2851.05
+Nagy-Csipkés-tető (3);2765.75
+Nagy-Dél (1);2693.57
+Nagy-Dél (2);2621.39
+Nagy-Dél (3);2582.02
+Nagy-Hárs;2755.91
+Nagy-Kopasz;2962.6
+Nagy-kő-hát (1);3103.67
+Nagy-kő-hát (2);3070.87
+Nagy-Kőris;2696.85
+Nyárju-hegy (1);2916.67
+Nyárju-hegy (2);2903.54
+Őr-kő (2);2805.12
+Őr-kő (1);2887.14
+Pes-kő;2811.68
+Sándor-hegy;2854.33
+Semmi-bérc;2972.44
+Szilvási-kő;3152.89
+Tányéros-töbör;3143.04
+Tar-kő;3116.8
+Vargai-Kurta-bérc (1);2693.57
+Vargai-Kurta-bérc (2);2687.01
+Veres-Sár-bérc;2992.13
+Virágos-sár (2);3116.8
+Virágos-Sár-hegy;3133.2
+Zsérci-Nagy-Dél (1);2883.86
+Zsérci-Nagy-Dél (2);2877.3
+Zsérci-Nagy-Dél (3);2818.24
+Zsérci-Nagy-Dél (4);2788.71
